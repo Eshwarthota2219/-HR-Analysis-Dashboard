@@ -1,0 +1,88 @@
+Business Requirement Document (BRD)
+Project: HR Analysis Dashboard
+1. Purpose
+The purpose of this dashboard is to monitor, analyze, and report HR metrics related to employee demographics, attrition, and workforce distribution. It provides actionable insights to HR managers and leadership teams to improve employee retention, workforce planning, and organizational performance.
+
+2. Objectives
+
+Track overall employee count, active employees, and attrition trends.
+
+Identify attrition patterns by department, education field, and years of service.
+
+Monitor workforce demographics such as average age and salary.
+
+Analyze monthly income distribution across different age groups.
+
+Measure total working years contribution by department.
+
+Highlight top employees with highest working years to recognize loyalty and retention risk.
+
+3. Key Business Questions
+
+This dashboard should answer:
+
+What is the overall employee strength, attrition count, and attrition percentage?
+
+Which departments and education fields have the highest attrition rates?
+
+What is the distribution of attrition across employee tenure (years at company)?
+
+What is the average age, average salary, and company tenure of employees?
+
+How does monthly income vary across different age groups?
+
+Which departments contribute most in terms of total working years?
+
+Who are the top employees with maximum working years in the company?
+
+4. Functional Requirements
+
+The HR Analysis Dashboard should include:
+
+KPIs
+
+Total Employees
+
+Active Employees
+
+Attrition Count
+
+Attrition Percentage
+
+Average Age
+
+Average Salary
+
+Average Years at Company
+
+Visualizations
+
+Pie Chart: Attrition by Department
+
+Bar Chart: Attrition by Education Field
+
+Line Chart: Attrition by Years at Company
+
+Column Chart: Monthly Income by Age Group
+
+Bar Chart: Total Working Years by Department
+
+Table: Top 5 Employees by Total Working Years
+
+Filters
+
+Department
+
+Education Field
+
+5. Business Impact
+
+Helps HR identify high-risk departments with high attrition.
+
+Supports strategic workforce planning by analyzing tenure-based attrition trends.
+
+Provides insights into salary and age-based income distribution, useful for compensation planning.
+
+Enables employee recognition programs by identifying long-serving employees.
+
+Assists management in reducing turnover and improving retention strategies.
